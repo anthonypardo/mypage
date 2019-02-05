@@ -6482,7 +6482,7 @@ body {
 .cid-rfVeRBaYwx {
   padding-top: 105px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-1350x1080.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1278.jpg");
 }
 .cid-rfVeRBaYwx .mbr-section-subtitle {
   color: #767676;
@@ -6557,6 +6557,9 @@ body {
     width: 100% !important;
     margin-left: 0 !important;
   }
+}
+.cid-rfVeRBaYwx .mbr-section-title B {
+  color: #ffffff;
 }
 .cid-rfVjaeyTsA {
   padding-top: 30px;
