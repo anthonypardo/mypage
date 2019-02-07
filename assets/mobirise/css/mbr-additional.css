@@ -3505,6 +3505,9 @@ body {
     -webkit-justify-content: center;
   }
 }
+.cid-rb5iLlpNoZ P {
+  color: #ffffff;
+}
 .cid-qyYA8GSwC9 .navbar {
   background: #232323;
   transition: none;
@@ -7118,4 +7121,7 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-rhf517WI2f P {
+  text-align: left;
 }
